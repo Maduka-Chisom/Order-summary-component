@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Maduka-Chisom/Order-summary-component.git)
+- Live Site URL: [Add live site URL here](https://maduka-chisom.github.io/Order-summary-component/)
 
 ## My process
 
@@ -64,7 +64,7 @@ i intend on building more components, then webpages, websites using html, css an
 
 ### Useful resources
 
-- [Example resource 1](https://chat.openai.com) - Open Ai helped a lot
+- [resource 1](https://chat.openai.com) - Open Ai helped a lot
 
 ## Author
 
