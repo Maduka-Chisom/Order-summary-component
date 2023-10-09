@@ -1,0 +1,40 @@
+/* screens at 600px */
+
+@media (max-width: 37.5em) {
+  body {
+    margin: 1.25rem;
+  }
+
+  article {
+    max-width: 25rem;
+  }
+
+  .card-body {
+    padding: 2.625rem 1.3rem;
+  }
+  .subscription {
+    padding: 1rem;
+  }
+  .order-summary {
+    font-size: 1.5rem;
+  }
+
+  .order-summary-text {
+    max-width: 17rem;
+  }
+
+  .pricing h2,
+  .pricing p {
+    font-size: 1rem;
+  }
+  .pricing {
+    gap: 0.1875rem;
+  }
+}
+
+/* screens at 400px */
+@media (max-width: 25em) {
+  .subscription {
+    gap: 1.25rem;
+  }
+}
