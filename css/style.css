@@ -51,14 +51,16 @@ body {
 
 /* main */
 
-article {
+.pricing-card {
   background-color: hsl(0, 0%, 100%);
   max-width: 28.5rem;
   border-radius: 20px;
   overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+    rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
-figure .illustration-hero {
+.illustration-hero {
   width: 100%;
 }
 
@@ -68,7 +70,7 @@ figure .illustration-hero {
 }
 
 .order-summary {
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
   font-weight: var(--font-wg-black);
   font-size: 1.875rem;
   color: var(--Dark-blue);
